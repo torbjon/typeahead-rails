@@ -14,13 +14,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install typeahead-rails
+  $ gem install typeahead-rails
 
 ## Usage
 
 Add the following to your app/assets/javascripts/application.js:
 
-//= require typeahead.js
+  //= require typeahead.js
 
 ## Contributing
 
