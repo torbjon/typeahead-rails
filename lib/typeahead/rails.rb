@@ -1,7 +1,8 @@
-require "typeahead/rails/version"
+require 'typeahead/rails/version'
 
 module Typeahead
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
