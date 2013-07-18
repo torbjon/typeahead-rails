@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Add the following to your app/assets/javascripts/application.js:
 
-  //= require typeahead.js
+      //= require typeahead
 
 ## Contributing
 
