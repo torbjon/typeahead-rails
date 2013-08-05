@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Maksim Berjoza']
   spec.email         = ['torbjon@gmail.com']
   spec.description   = 'Twitter Typeahead.js with Rails asset pipeline'
-  spec.homepage      = 'https://github.com/torbjon/json2-rails'
+  spec.homepage      = 'https://github.com/torbjon/typeahead-rails'
   spec.summary       = 'Twitter Typeahead.js with Rails asset pipeline'
   spec.license       = 'MIT'
 
