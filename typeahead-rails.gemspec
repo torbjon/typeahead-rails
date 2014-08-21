@@ -6,8 +6,8 @@ require 'typeahead/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = 'typeahead-rails'
   spec.version       = Typeahead::Rails::VERSION
-  spec.authors       = ['Maksim Berjoza']
-  spec.email         = ['torbjon@gmail.com']
+  spec.authors       = ['Maksim Berjoza', 'Luc Donnet']
+  spec.email         = ['torbjon@gmail.com', 'luc.donnet@free.fr']
   spec.description   = 'Twitter Typeahead.js with Rails asset pipeline'
   spec.homepage      = 'https://github.com/torbjon/typeahead-rails'
   spec.summary       = 'Twitter Typeahead.js with Rails asset pipeline'
